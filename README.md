@@ -92,10 +92,6 @@ npm install
 
 ---
 
-## License
-
-[AGPL-3.0](LICENSE)
-
 # External DAGR Bridge Workspace
 
 This workspace connects Arma 3 telemetry to a local web/mobile UI that mimics a MicroDAGR-style experience.
