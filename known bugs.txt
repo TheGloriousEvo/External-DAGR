@@ -1,0 +1,3 @@
+Bug: lines aren't deleted if you delete them from the map.
+
+Another bug: on the Sefrou Ramal when you're on the map tab, the coordinates don't display correctly, but they do display correctly on the coordinates and other info tab. 
